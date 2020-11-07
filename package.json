@@ -26,6 +26,6 @@
     "install": "^0.13.0",
     "redux-devtools-extension": "^2.13.8",
     "webpack-dev-server": "^3.7.2",
-    "yarn": "^1.17.3"
+    "yarn": "^1.22.0"
   }
 }
